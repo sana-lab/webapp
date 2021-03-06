@@ -5,9 +5,9 @@ from sklearn.ensemble import RandomForestClassifier
 
 st.title("Wine Quality Prediction Web Application")
 st.markdown("""
-This web app performs machine learning model and predicts wine quality by using wine features that you choose. 
+This web app performs machine learning model and predicts wine quality by using input wine features. 
 The features default is set to be the mean of its dataset corresponding. 
-* ** Python libraries that I have used:** pandas, streamlit, sklearn
+* ** Python libraries that I have used:** pandas, streamlit, sklearn, numpy
 """)
 
 
