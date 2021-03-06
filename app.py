@@ -11,7 +11,7 @@ The features default is set to be the mean of its dataset corresponding.
 """)
 
 
-wine = pd.read_csv('C:/Users/mulis/Documents/Webapp/Data9.csv')
+wine = pd.read_csv('Data9.csv')
 
 
 st.sidebar.header('User Input Features')
